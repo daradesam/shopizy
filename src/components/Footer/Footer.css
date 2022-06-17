@@ -1,0 +1,23 @@
+.footer-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    height: 70px;
+    background-color: black;
+    color: white;
+    position: sticky;
+    box-sizing: border-box;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-wrapper img{
+    height: 18px;
+    margin: 10px;
+}
+
+.footer-wrapper a{
+    color: white;
+    text-decoration: none;
+}

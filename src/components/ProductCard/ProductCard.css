@@ -1,0 +1,22 @@
+.product-card-wrapper{
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.product-card-wrapper img{
+    max-height: 200px;
+    max-width: 200px;
+}
+
+h2{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+h3{
+    font-size: 16px;
+    font-weight: 400;
+}

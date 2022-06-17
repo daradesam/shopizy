@@ -1,0 +1,42 @@
+.navbar {
+    background-color: #eb5757;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    position: sticky;
+    top: 0;
+}
+
+.navbar h2{
+    margin: 0 20px;
+    padding: 8px 15px;
+    color: white;
+}
+
+.navbar img{
+    background-color: black;
+    padding: 8px 15px;
+    border-radius: 5px;
+    height: 18px;
+    margin: 0 35px;
+}
+
+.navbar h2:hover{
+    background-color: black;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+.cart-count-wrapper{
+    height: 18px;
+    min-width: 18px;
+    background-color: white;
+    border-radius: 9px;
+    display: inline-block;
+    line-height: 18px;
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
